@@ -12,6 +12,3 @@ jobs:
     - name: Run Bash
       run: |
         echo "verion 1.0.3"
-
-
-
