@@ -1,0 +1,17 @@
+Name: Echo
+
+on:
+  workflow_call:
+
+
+jobs:
+  echo:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Run Bash
+      run: |
+        echo "verion 2.0.0"
+
+
+
