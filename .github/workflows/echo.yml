@@ -11,4 +11,4 @@ jobs:
     steps:
     - name: Run Bash
       run: |
-        echo "verion 1.0.3"
+        echo "verion 1.0.5"
